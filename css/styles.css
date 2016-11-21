@@ -1,8 +1,10 @@
+/*Version 1.1*/
 body {
   font-size: 16px;
   color: #fff;
   background-color: #FFFFFF;
   font-family: 'Oxygen', sans-serif;  
+  margin-bottom: 25px;
 }
 
 /** HEADER **/
@@ -47,6 +49,7 @@ body {
   #section_container > div{
     margin-left: 10%;    
     margin-right: 10%;
+    margin-bottom: 100px;
   }    
 }
 #menu_button > span {
